@@ -1,1 +1,2 @@
+# JsonTransformIntegration
 This project integrates a .json file into a 3D game prototype in Unreal Engine using C++. The .json includes data for high scores, player stats, level details and actor transforms applied to all 3 blue cubes in the game world. (The location of the .json file is within Saved\SaveJson).
